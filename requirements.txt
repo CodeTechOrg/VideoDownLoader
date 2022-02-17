@@ -1,0 +1,6 @@
+hachoir
+requests
+apscheduler
+pyrogram
+tgcryto
+bs4
